@@ -1,0 +1,47 @@
+{
+    "name": "datatables.net-colreorder-bm",
+    "description": "ColReorder for DataTables with styling for [Bulma](https://bulma.io/)",
+    "main": "js/colReorder.bulma.js",
+    "style": "css/colReorder.bulma.css",
+    "version": "1.5.3",
+    "files": [
+        "css/**/*.css",
+        "js/**/*.js"
+    ],
+    "keywords": [
+        "ColReorder",
+ "Reorder",
+        "Bulma",
+        "Datatables",
+        "jQuery",
+        "table",
+        "filter",
+        "sort"
+    ],
+    "dependencies": {
+        "datatables.net-colreorder": ">=1.5.3",
+        "datatables.net-bm": ">=1.10.24",
+        "jquery": ">=1.7"
+    },
+    "moduleType": [
+        "globals",
+        "amd",
+        "node"
+    ],
+    "ignore": [
+        "composer.json",
+        "datatables.json",
+        "package.json"
+    ],
+    "author": {
+        "name": "SpryMedia Ltd",
+        "url": "http://datatables.net"
+    },
+    "homepage": "https://datatables.net",
+    "bugs": "https://datatables.net/forums",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DataTables/Dist-DataTables-ColReorder-Bulma.git"
+    }
+}

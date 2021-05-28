@@ -1,0 +1,15 @@
+{
+    "js": [
+        "js/colReorder.bulma.js",
+        "js/colReorder.bulma.min.js"
+    ],
+    "css": [
+        "css/colReorder.bulma.css",
+        "css/colReorder.bulma.min.css"
+    ],
+    "types": [
+        "types/colReorder.bulma.d.ts"
+    ],
+    "src-repo": "http://github.com/DataTables/ColReorder",
+    "last-tag": "1.5.3"
+}
