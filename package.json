@@ -3,6 +3,7 @@
     "description": "ColReorder for DataTables with styling for [Bulma](https://bulma.io/)",
     "main": "js/colReorder.bulma.js",
     "style": "css/colReorder.bulma.css",
+    "types": "./types/colReorder.bulma.d.ts",
     "version": "1.5.3",
     "files": [
         "css/**/*.css",
