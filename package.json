@@ -4,14 +4,14 @@
     "main": "js/colReorder.bulma.js",
     "style": "css/colReorder.bulma.css",
     "types": "./types/colReorder.bulma.d.ts",
-    "version": "1.5.3",
+    "version": "1.5.4",
     "files": [
         "css/**/*.css",
         "js/**/*.js"
     ],
     "keywords": [
         "ColReorder",
- "Reorder",
+        "Reorder",
         "Bulma",
         "Datatables",
         "jQuery",
