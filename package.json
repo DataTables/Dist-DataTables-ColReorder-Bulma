@@ -2,12 +2,14 @@
     "name": "datatables.net-colreorder-bm",
     "description": "ColReorder for DataTables with styling for [Bulma](https://bulma.io/)",
     "main": "js/colReorder.bulma.js",
+    "module": "js/colReorder.bulma.mjs",
     "style": "css/colReorder.bulma.css",
     "types": "./types/colReorder.bulma.d.ts",
     "version": "1.5.6",
     "files": [
         "css/**/*.css",
         "js/**/*.js",
+        "js/**/*.mjs",
         "types/**/*.d.ts"
     ],
     "keywords": [
