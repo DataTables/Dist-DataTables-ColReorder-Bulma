@@ -10,7 +10,8 @@
         "css/colReorder.bulma.min.css"
     ],
     "types": [
-        "types/colReorder.bulma.d.ts"
+        "types/colReorder.bulma.d.ts",
+        "types/types.d.ts"
     ],
     "src-repo": "http://github.com/DataTables/ColReorder",
     "last-tag": "1.5.6"

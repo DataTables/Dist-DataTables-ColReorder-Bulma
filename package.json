@@ -4,7 +4,7 @@
     "main": "js/colReorder.bulma.js",
     "module": "js/colReorder.bulma.mjs",
     "style": "css/colReorder.bulma.css",
-    "types": "./types/colReorder.bulma.d.ts",
+    "types": "./types/types.d.ts",
     "version": "1.5.6",
     "files": [
         "css/**/*.css",
