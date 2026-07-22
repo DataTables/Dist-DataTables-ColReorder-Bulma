@@ -1,4 +1,4 @@
-/*! ColReorder Bulma styling 3.0.0-beta.1 for DataTables
+/*! ColReorder Bulma styling 3.0.0 for DataTables
  * Copyright (c) SpryMedia Ltd - datatables.net/license
  */
 import DataTable from"datatables.net-bm";import ColReorder from"datatables.net-colreorder";export default DataTable;
