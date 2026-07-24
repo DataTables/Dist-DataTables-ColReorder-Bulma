@@ -5,7 +5,7 @@
     "module": "js/colReorder.bulma.mjs",
     "style": "css/colReorder.bulma.css",
     "types": "./types/colReorder.bulma.d.ts",
-    "version": "3.0.0-beta.1",
+    "version": "3.0.0",
     "files": [
         "css/**/*.css",
         "js/**/*.js",
@@ -22,8 +22,8 @@
         "sort"
     ],
     "dependencies": {
-        "datatables.net-colreorder": "3.0.0-beta.1",
-        "datatables.net-bm": "3.0.0-0"
+        "datatables.net-colreorder": "3.0.0",
+        "datatables.net-bm": "^3"
     },
     "author": {
         "name": "SpryMedia Ltd",
