@@ -1,4 +1,4 @@
-/*! ColReorder Bulma styling 3.0.2 for DataTables
+/*! ColReorder Bulma styling 3.1.0 for DataTables
  * Copyright (c) SpryMedia Ltd - datatables.net/license
  */
 
