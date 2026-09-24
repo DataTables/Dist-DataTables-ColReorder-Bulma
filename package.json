@@ -38,9 +38,10 @@
     "exports": {
         ".": {
             "types": "./types/colReorder.bulma.d.ts",
+            "style": "./css/colReorder.bulma.css",
             "import": "./js/colReorder.bulma.mjs",
-            "default": "./js/colReorder.bulma.mjs",
-            "require": "./js/colReorder.bulma.js"
+            "require": "./js/colReorder.bulma.js",
+            "default": "./js/colReorder.bulma.mjs"
         },
         "./js/*": "./js/*",
         "./css": {
